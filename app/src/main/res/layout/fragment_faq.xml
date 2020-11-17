@@ -19,7 +19,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Q.1 How will the training be delivered?"
+                android:text="Q.1 How will the food be delivered?"
                 android:layout_centerHorizontal="true"
                 android:fontFamily="@font/poppins"
                 android:textColor="@color/colorPrimaryDark"
@@ -46,7 +46,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Q.2 What will be the timings of the training?"
+                android:text="Q.2 In how much time the food will be delivered?"
                 android:textColor="@color/colorPrimaryDark"
                 android:layout_centerHorizontal="true"
                 android:fontFamily="@font/poppins"
@@ -74,7 +74,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Q.3 What is the duration of training?"
+                android:text="Q.3 What is the duration of payment?"
                 android:layout_centerHorizontal="true"
                 android:fontFamily="@font/poppins"
                 android:textColor="@color/colorPrimaryDark"
@@ -101,7 +101,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Q.4 How much time should I spend everyday?"
+                android:text="Q.4 How much dishes can be ordered at one time?"
                 android:layout_centerHorizontal="true"
                 android:textColor="@color/colorPrimaryDark"
                 android:fontFamily="@font/poppins"
@@ -128,7 +128,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Q.5 When can I start my training?"
+                android:text="Q.5 When can I start my ordering?"
                 android:layout_centerHorizontal="true"
                 android:fontFamily="@font/poppins"
                 android:textColor="@color/colorPrimaryDark"
@@ -155,7 +155,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Q.6 When will I get the certificate?"
+                android:text="Q.6 When will I get the hygenic food?"
                 android:layout_centerHorizontal="true"
                 android:fontFamily="@font/poppins"
                 android:textColor="@color/colorPrimaryDark"

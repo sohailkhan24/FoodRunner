@@ -35,23 +35,18 @@
     <string name="empty_cart">Your cart is currently empty</string>
     <string name="no_favorites">You do not have any favorite restaurants</string>
     <string name="no_orders">You haven\'t placed any orders yet</string>
-    <string name="faq_answer_one">A.1 You will be taught using pre-recorded videos and text tutorials. The training has
-        quizzes, assignments, and tests to help you learn better. At the end of the training, you will attempt a project
-        to get hands-on practice of what you learn during your training.
+    <string name="faq_answer_one">A.1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
     </string>
-    <string name="faq_answer_two">A.2 As this is a purely online training program, you can choose to learn at any time
-        of the day. We will recommend a pace to be followed throughout the program, but the actual timings and learning
-        hours can be decided by students according to their convenience.
+    <string name="faq_answer_two">A.2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis hendrerit dolor magna eget est lorem ipsum dolor sit. Cursus euismod quis viverra nibh cras pulvinar mattis. Consequat mauris nunc congue nisi. Malesuada pellentesque elit eget gravida cum sociis natoque. At augue eget arcu dictum varius duis at. Auctor urna nunc id cursus. Lacus sed viverra tellus in hac habitasse platea. Dictumst quisque sagittis purus sit amet volutpat. Morbi leo urna molestie at.
     </string>
-    <string name="faq_answer_four">A.4 We recommend spending 10-12 hours per week. However, the actual learning hours
-        can be decided by you as per your convenience.
+    <string name="faq_answer_four">A.4 Ornare arcu odio ut sem nulla pharetra diam sit amet. Diam sollicitudin tempor id eu nisl nunc mi.
     </string>
-    <string name="faq_answer_three">A.3 The training duration is of 6 weeks.</string>
-    <string name="faq_answer_five">A.5 You can choose your preferred batch date while signing up for the training
-        program.
+    <string name="faq_answer_three">A.3  Velit euismod in pellentesque massa placerat. Sagittis vitae et leo duis ut.</string>
+    <string name="faq_answer_five">A.5 YAccumsan lacus vel facilisis volutpat est velit egestas dui. Aliquam id diam maecenas ultricies. Sed egestas egestas fringilla phasellus.
     </string>
-    <string name="faq_answer_six">A.6 You will be able to download the certificate once you complete your training and
-        take the final test.
+    <string name="faq_answer_six">A.6 Enim neque volutpat ac tincidunt vitae semper. Imperdiet nulla malesuada pellentesque elit eget. Posuere urna nec tincidunt praesent semper feugiat nibh sed. Blandit cursus risus at ultrices mi tempus imperdiet nulla malesuada.
     </string>
     <string name="register_yourself">
         <u>Don\'t have an account? Sign up now</u>
